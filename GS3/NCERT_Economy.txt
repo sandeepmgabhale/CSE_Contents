@@ -1,0 +1,264 @@
+This file contains the "Business Standard" article on Financial Market as well as NCRET Economy from 11th and 12th class.
+
+-----------------------------	BUSINESS STANDARD :: FINANCIAL MARKET	-----------------------------
+# Concept of Financial Market.
+	- Requires fund for starting a business.
+	- raise fund from the household saving by investment in stocks
+	- allocation of fund via banks and financial markets.
+	- financial transactions could be in the form of IPOs or existing equity shares trading.
+
+# Functions of financial market
+	- Mobilisation of Savings and Channelling them into the most productive uses.
+	- Facilitate Price Discovery.
+	- Provide Liquidity to Financial Assets.
+	- Reduce the cost of Transactions.
+
+# Classification of Financial Market
+	- Money Market
+	- Capital Market
+		1. Primary Market (Debt and Equity)
+		2. Secondary Market (Debt and Equity)
+
+# Money Market
+	- market for short term funds.
+	- deals in monetary assets with maturity period is up-to one year.
+	- low risk, unsecured and short term debt instruments.
+	- highly liquid are issued and actively traded everyday.
+	- major participants RBI, Commercial Banks, NBFC, Large Corporate Houses and Mutual Funds.
+	
+# Money Market Instruments - Treasury Bill
+	- An instrument of short-term borrowing by the Government of India.
+	- maturity less than one year.
+	- also known as ZERO COUPON BONDs
+	- issued by RBI on behalf of Central Government to meet its short-term requirement of funds.
+	
+# Money Market Instruments - Commercial Papers
+	- short-term unsecured promissory note.
+	- negotiable and transferable by endorsement and delivery with fixed maturity period.
+	- issued by large and credit-worthy companies to raise short-term funds at lower rate of interest than market rates.
+	- maturity period 15 days to one year.
+	- instrument is used for the purpose of bridge financing.
+
+# Money Market Instruments - Call Money
+	- short-term payable on demand.
+	- maturity period of one day to 15 days.
+	- used for inter-bank transactions.
+	- helps to maintain a minimum cash balance (CRR).
+	- interest rate know as call rate, which is highly volatile from day-to-day even from hour-to-hour.
+	
+# Money Market Instruments - Certificate of Deposit
+	- unsecured, negotiable, short-term instruments in bearer form.
+	- issued by commercial banks and development financial banks.
+	- issued to individuals, corporations and companies during tight liquidity periods.
+
+# Money Market Instruments - Commercial Bill
+	- a bill of exchange used to finance the working capital requirements of business firms.
+	- short-term, negotiable, self-liquidating instrument used to finance the credit sales of firms.
+	- when goods are sold on credit, the buyer become liable to make the payment on specific date in future.
+	
+# Capital Market
+	- refers to facilities and institutional arrangements through which long-term funds raised.
+	- capital market consists of development banks, commercial banks and stock exchanges.
+
+# Primary Market
+	- also known as new issue market (IPO)
+	- company can raise capital through the primary market.
+	- capital forms are equity shares, preference shares, debentures, loan and deposits.
+
+# Methods of Floatation
+	- Offer through Prospectus.
+	- Offer for Sale.
+	- Private Placement.
+	- Rights Issue.
+	- e-IPOs
+
+# Secondary Market
+	- also known as Stock Market.
+	- here purchase and sale of existing securities.
+	
+# Distinction between Capital Market and Money Market
+	- differs in the maturity periods of the financial assets.
+	- money market maturity less than a year where as the capital market maturity more than a year.
+	
+# Stock Exchange
+	- an institution which provides a platform for buying and selling of existing securities.
+	
+# Meaning of Stock Exchange
+	- constituted for the purpose of assisting the trading business.
+	
+# Functions of Stock Exchange
+	- Providing Liquidity and Market-ability to Existing Securities.
+	- Pricing of Securities.
+	- Safety of transaction.
+	- Contributes to Economic Growth
+	- Spreading of Equity Cult.
+	- Providing Scope for Speculation.
+	
+# Trading Procedure on a Stock Exchange
+	- trading became on-line.
+	- Brokers are members of a stock exchange.
+	- brokers are intermediaries between buyers and sellers.
+	- an electronic book entry for holding and transferring securities.
+	- electronic entry refers to "dematerialisation of securities".
+	
+# National Stock Exchange.
+
+# Objectives of NSE
+	- Nation-wide trading facilities.
+	- transparency in trading by making it online.
+
+# Market Segments of NSE
+	- whole sale Debt market segment
+	- Capital Market segment.
+	
+# Over the Counter Exchange of India (OTCEI)
+	- a set-up to provide small and medium companies an access to the capital market for raising finance in a cost effective manner.
+	- provides trading platform to smaller and less liquid companies as they are not eligible for listing on a regular exchange.
+	
+# SEBI Securities and Exchange Board of India
+	- established by Government of India on 12th-April-1988.
+	- an interim administrative body to promote orderly and healthy growth of securities market.
+	- also for the investor protection.
+	
+# Objectives of SEBI
+	- regulates stock exchange.
+	- protects rights and interest of investors.
+	- prevent trading malpractices.
+	- develop a code of conduct and fair practices.
+	
+# Functions of SEBI
+	- Regulatory Functions
+	- Development Functions
+	
+
+-----------------------------	NCERT ECONOMY :: 11-1 INDIAN ECONOMY ON THE EVE OF INDEPENDENCE		-----------------------------
+# Agriculture was the main source of livelihood, besides that handicraft industries in the field of cotton and silk, metal and 
+	precious stone
+	
+# Stagnation in agriculture was caused mainly because of various system of land settlement introduced by colonial government.
+	Zamindari system where the zamindars where interested only collecting the rent, no interest in the improvement of 
+	agricultural conditions
+
+# Low levels of technology, lack of lack of irrigation facilities and negligible use of fertilisers, all added up to aggravate
+	the plight of the farmers and contributed to the dismal level of agricultural productivity. Commercialization of agriculture 
+	producing the cash crops which were to be ultimately used by Britisher back home
+	
+# Lack of adequate public health facilities, occurrence of frequent natural calamities and famines pauperised the hapless Indian 
+	people and resulted in engendering high mortality rates
+
+# The primary motive of the colonial government behind this policy of systematically deindustrialising India was two-fold.
+	First, to reduce India to the status of a mere exporter of important raw materials for the upcoming modern industries in
+	Britain and, second, to turn India into a sprawling market for the finished products of those industries so that
+	their continued expansion could be ensured to the maximum advantage of their home country — Britain
+
+# There was no Capital goods industry to help promote the industrialisation, there was few establishment of traditional handicraft
+	industries. Still contribution to GDP growth remained small
+	
+# Britain maintained a monopoly control over India’s exports and imports. As a result, more than half of India’s foreign trade was
+	restricted to Britain while the rest was allowed with a few other countries like China, Ceylon (Sri Lanka) and Persia (Iran)
+
+# The real motive behind Infrastructure development was not to provide basic amenities to the people but to sub-serve various 
+	colonial interests. Infrastructure like Roads, railways, etc.
+	
+# The agricultural sector was already saddled with surplus labour and extremely low productivity. The industrial sector was crying for
+	modernisation, diversification, capacity building and increased public investment economic policy. In a nutshell, the social and 
+	economic challenges before the country were enormous.
+	
+
+
+-----------------------------	NCERT ECONOMY :: 11-2 INDIAN ECONOMY 1950-1990		-----------------------------
+# Among the thinkers contribution to the five-year plans, the statistician Prasanta Chandra Mahalanobis was the architect 
+	of Indian Planning
+
+# Goals of five year plans are Growth, Modernisation, self-reliance, Equity. It is not that all the plans have given importance 
+	to all these goals. Due to limitation of resources choice were made in each plan to which of the goal be given primary importance.
+	
+# Growth: 
+	- to increase in the country’s capacity to produce the output of goods and services within the country
+	- steady increase in GDP is the good indicator of economic growth
+	- GDP is the market value of all the goods and services produced in the country during a year
+	- The GDP of a country is derived from the different sector’s of the economy, namely the agricultural sector, the
+		industrial sector and the service sector
+
+# Modernisation: 
+	- To increase the production of goods and services the producers have to adopt new technology
+	- modernisation does not refer only to the use of new technology but also to changes in social outlook such as the recognition
+		that women should have the same rights as men
+	
+# Self-reliance: 
+	- A nation can promote economic growth and modernisation by using its own resources or by using resources imported from other 
+		nations
+	- first seven fiver-year plans used self-reliance by avoiding imports of those goods and services which could be produced in
+		India
+	- it was necessary to reduce our dependence on foreign countries, especially for food. This steps were taken out of fear that 
+		dependence on imported food supplies, foreign technology and foreign capital may make India's sovereignty vulnerable to 
+		foreign interference in our policies
+		
+# Equity:
+	- It is important to ensure that the benefits of economic prosperity reach the poor sections as well instead of being enjoyed 
+		only by the rich
+	- So, in addition to growth, modernisation and self-reliance, equity is also important: every Indian should be able to meet his 
+		or her basic needs such as food, a decent house, education and health care and inequality in the distribution of wealth
+		should be reduced
+	
+# Land Reforms:
+	- to reduce the Zamindari and improve the agriculture productivity
+	- ownership of land would give incentives to the tillers to invest in making improvements provided sufficient capital was made
+		available to them
+	- Land reforms were successful in Kerala and West Bengal because these states had governments committed to the policy of land to 
+		the tiller. Unfortunately other states did not have the same level of commitment and vast inequality in landholding
+	
+# Land Ceiling: 
+	- fixing the maximum size of land which could be owned by an individual. The purpose of land ceiling was to reduce the 
+		concentration of land ownership in a few hands.
+	- the goal of equity was not fully served by abolition of intermediaries
+	- The land ceiling legislation also faced hurdles due lots of loop holes which exploited by the big landholders to retain
+		their land.
+		
+# The Green Revolution: 
+	- Productivity in the agricultural sector was very low because of the use of old technology and the absence of required infrastructure
+		for the vast majority of farmers
+	- India’s agriculture vitally depends on the monsoon and shortfall of monsoon leads to access the irrigation facilities which very
+		few farmers had
+	- The stagnation in agriculture, which was in the colonial period, was ridden off due to the large increase in production of food grains
+		resulting from the use of high yielding variety (HYV) seeds especially for wheat and rice
+	- the HYV technology spread to a larger number of states and benefited more variety of crops. The spread of green revolution technology 
+		enabled India to achieve self-sufficiency in food grains;
+	- reducing/removing the dependency on America or other nations for meeting our nation’s food requirements
+	- the government provided loans at a low interest rate to small farmers and subsidised fertilisers so that small farmers could also have
+		access to the needed inputs
+	- The risk of the small farmers being ruined when pests attack their crops was considerably reduced by the services rendered by research 
+		institutes established by the government
+		
+# Debate our Subsidies:
+	- 
+		
+		
+
+	
+-----------------------------	NCERT ECONOMY :: 11-3 LIBERALISATION PRIVATISATION AND GLOBALISATION		-----------------------------
+
+
+
+
+-----------------------------	NCERT ECONOMY :: 11-4 POVERTY		-----------------------------
+
+
+
+
+-----------------------------	NCERT ECONOMY :: 11-5 HUMAN CAPITAL FORMATION ININDIA		-----------------------------
+
+
+
+
+-----------------------------	NCERT ECONOMY :: 11-6 RURAL DEVELOPMENT		-----------------------------
+
+
+
+
+-----------------------------	NCERT ECONOMY :: 11-7 EMPLOYMENT GROWTH, INFORMALISATION AND OTHER ISSUES		-----------------------------
+
+
+
+
+-----------------------------	NCERT ECONOMY :: 		-----------------------------
