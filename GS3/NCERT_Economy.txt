@@ -231,7 +231,132 @@ This file contains the "Business Standard" article on Financial Market as well a
 		institutes established by the government
 		
 # Debate our Subsidies:
-	-  
+	- It was decided that subsidies should be given to the farmers to test and implement new technology for farming like HYV (High yielding 
+		variety), as new technology is risky
+	- to encourage farmers subsidies to be given and once the technology is found profitably and widely adopted the subsidies to be phased out
+	- Otherwise, still continuing subsidies will be burden on government as it does not benefit the target group
+	- if subsidies are largely benefiting the fertiliser industry and big farmers, the correct policy is not to abolish subsidies but to take
+		steps to ensure that only the poor farmers enjoy the benefits
+	- Economists found that between 1950-1990 the GDP contribution by agriculture decline significantly but not the population depending on it
+	- the industrial sector and the service sector did not absorb the people working in the agricultural sector, this an important failure of 
+		our policies followed during 1950-1990.
+		
+# Industry and Trade
+	- Economists have found that poor nation can progress only if they have good industrial sector, as it provides stable employment than
+		agriculture.
+	- Industrial sector promote modernisation and overall prosperity. Thus, five-year plans place more emphasis on the industrial development.
+	- Market and State in Indian Industrial Development: The state would have complete control of those industries that were vital for
+		the economy.
+	- Industrial Policy Resolution 1956 (IPR 1956): This policy was categorized in 3 sections, and it was encourage for promoting industry in 
+		backward regions and gives easier way for licensing, giving certain concessions like tax benefits and electricity at lower tariff.
+	- Small scale Industry: for promoting rural development, also given concessions such as lower excise duty and bank loans at lower
+		interest rates.
+# Trade Policy: Import Substitution
+	- Instead of importing the vehicles from foreign countries, it was encourage to produce them in India itself and protect the domestic firm 
+		from competing the foreign firms.
+	- Tariffs are a tax on imported goods; they make imported goods more expensive and discourage their use. Quotas specify the quantity of goods
+		which can be imported.
+	- The rise in the industry’s share of GDP is an important indicator of development. No more the industrial sector was restricted to only textile
+		and jute. It was well diversified, largely due to public sector.
+	- scholars point out that the public sector is not meant for earning profits but to promote the welfare of the nation
+	- One of the major drawbacks in the industrial sector was the inefficient functioning of the public sector as it started incurring losses leading
+		to drain on the nation’s limited resources
+
+	
+-----------------------------	NCERT ECONOMY :: 11-3 LIBERALISATION PRIVATISATION AND GLOBALISATION		-----------------------------
+# This chapter talks about the financial crisis that occurred in 1991.
+
+# Background
+	- The bad economic management leads to crisis, even the foreign reserves were consumed.
+	- imports were increased and more than the export, so India recieved loan from World Bank and IMF.
+	- In return the foreign investors asked to remove the restriction on trade and private sector to reduce less involvement of Government
+		in the private business. To which India agreed and announced the New Economic Policy (NEP).
+	- there was a need to maintain sufficient foreign exchange reserves and keep the rising prices under control.
+	- aimed at improving the efficiency of the economy and increasing its international competitiveness by removing the rigidities in various
+		segments of the Indian economy.
+		
+# LIBERALISATION
+	- introduced to put an end to these restrictions and open up various sectors of the economy.
+	- Industrial licensing was abolished for almost all but product categories — alcohol, cigarettes, hazardous chemicals industrial explosives, 
+		electronics, aerospace and drugs and pharmaceuticals.
+	- reserved for the public sector are defence equipments, atomic energy generation and railway transport.
+	- Financial reforms for Indian and foreign banks, FII allowed to invest in Indian financial markets.
+	- Tax reforms consists of Direct and Indirect taxes.
+	- direct taxes on incomes of individuals as well as profits of business enterprises.
+	- indirect taxes levied on commodities, in order to facilitate the establishment of a common national market for goods and commodities.
+	- Foreign Exchange Reforms as an immediate measure to resolve the balance of payments crisis, the rupee was devalued against foreign
+		currencies.
+	- Trade and Investment Policy Reforms: aim was also to promote the efficiency of the local industries and the adoption of modern
+		technologies.
+	- Export duties have been removed to increase the competitive position of Indian goods in the international markets.
+	
+# PRIVATISATION
+	- to improve financial discipline and facilitate modernisation.
+	- private capital and managerial capabilities could be effectively utilised to improve the performance of the PSUs.
+	
+# GLOBALISATION
+	- Globalisation is the outcome of the policies of liberalisation and privatisation.
+	- It is integration of the economy of the country with the world economy, outcome of the set of various policies that are aimed
+		at transforming the world towards greater interdependence and integration.
+	- It involves creation of networks and activities transcending economic, social and geographical boundaries.
+	- Outsourcing is part of globalisation, low wage rates and availability of skilled man power in India able to bagged outsourcing from
+		foreign MNCs.
+	- The World Trade Organization (WTO) was founded in 1995 as the successor organisation to the General Agreement on Trade and Tariff (GATT).
+
+# INDIAN ECONOMY DURING REFORMS: AN ASSESSMENT
+	- there has been an increase in the overall GDP growth in the reform period.
+	- During the reform period, the growth of agriculture and industrial sectors has declined whereas the growth of service sector has gone up.
+		This indicates that the growth is mainly driven by the growth in the service sector.
+	- India is seen as a successful exporter of auto parts, engineering goods, IT software and textiles in the reform period.
+	- the reform process has been widely criticised for not being able to address some of the basic problems facing our economy especially
+		in the areas of employment, agriculture, industry, infrastructure development and fiscal management.
+	- Though the GDP growth rate has increased in the reform period, scholars point out that the reform-led growth has not generated sufficient
+		employment.
+	- Reforms in Agriculture: reduced the growth rate, because the Public investment is reduced in agriculture sector like irrigation, research, etc.
+		Also removal of fertiliser subsidy has led to increase in the cost of production.
+	- Reforms in Industry: developing countries are compelled to open up their economies to greater flow of goods and capital from developed countries
+		and rendering their industries vulnerable to imported goods.
+	- a developing country like India still does not have the access to developed countries’ markets because of high non-tariff barriers.
+	- Disinvestment as per Critics, the assets of PSUs has been undervalued and sold to private sector. There has been substantial loss to the 
+		government.
+	- Reforms and Fiscal Policies: The tax reductions aimed at yielding larger revenue which didn't succeed. Also the tax incentives were provided
+		foreign investors which further reduced the scope for raising tax revenues.
+		
+# Have a glance at "Recap" from PDF.
+
+
+-----------------------------	NCERT ECONOMY :: 11-4 POVERTY		-----------------------------
+
+# This chapter talks about some of the most challenging issues facing India today are poverty, development of rural India and building 
+	infrastructure.
+	
+# WHO ARE THE POOR?
+	- Starvation and hunger are the key features of the poorest households. The poor lack basic literacy and skills and hence have very limited 
+		economic opportunities. 
+	- Poor people also face unstable employment, they are highly vulnerable. A large section of poor people do not even have access to safe 
+		drinking water. 
+	- Extreme gender inequality in the participation of gainful employment, education and in decision-making within the family.
+	- The urban poor are largely the overflow of the rural poor who had migrated to urban areas in search of alternative employment and livelihood, 
+		labourers who do a variety of casual jobs and the self-employed who sell a variety of things on roadsides and are engaged in various activities.
+	
+# HOW ARE POOR PEOPLE IDENTIFIED?
+	- there is need to develop a scale to measure poverty, and the factors that make up the criteria for this measurement or mechanism need
+		to be carefully chosen.
+	- For the purpose of defining poverty we divide people into two categories; the poor and the non-poor and the poverty line separates the
+		two. So there are different kinds of poor and non-poor.
+	- There are many factors, other than income and assets, which are associated with poverty; for instance, the accessibility to basic education,
+		health care, drinking water and sanitation.
+	- The aim of poverty alleviation schemes should be to improve human lives by expanding the range of things that a person could be and could do,
+		such as to be healthy and well-nourished, to be knowledgeable and participate in the life of a community.	
+	- development is about removing the obstacles to the things that a person can do in life, such as illiteracy, ill health,
+		lack of access to resources, or lack of civil and political freedoms.
+
+# THE NUMBER OF POOR IN INDIA
+	- In 1990s, the absolute number of poor in rural areas had declined whereas the number of their urban counterparts increased marginally.
+	- The poverty ratio declined continuously for both urban and rural areas, but declined slowly.
+
+# WHAT CAUSES POVERTY?
+	-   
 		
 		
 
