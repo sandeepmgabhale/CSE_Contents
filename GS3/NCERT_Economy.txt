@@ -132,90 +132,136 @@ This file contains the "Business Standard" article on Financial Market as well a
 	
 
 -----------------------------	NCERT ECONOMY :: 11-1 INDIAN ECONOMY ON THE EVE OF INDEPENDENCE		-----------------------------
-# Agriculture was the main source of livelihood, besides that handicraft industries in the field of cotton and silk, metal and 
-	precious stone
-	
-# Stagnation in agriculture was caused mainly because of various system of land settlement introduced by colonial government.
-	Zamindari system where the zamindars where interested only collecting the rent, no interest in the improvement of 
-	agricultural conditions
 
-# Low levels of technology, lack of lack of irrigation facilities and negligible use of fertilisers, all added up to aggravate
-	the plight of the farmers and contributed to the dismal level of agricultural productivity. Commercialization of agriculture 
-	producing the cash crops which were to be ultimately used by Britisher back home
+	"India is the pivot of our Empire... If the Empire loses any other part of its
+	Dominion we can survive, but if we lose India, the sun of our Empire will have
+	set."
+		- Victor Alexander Vruce, the Viceroy of British India in 1894
+		
+# LOW LEVEL OF ECONOMIC DEVELOPMENT UNDER THE COLONIAL RULE
+	- Agriculture was the main source of livelihood, besides that handicraft industries in the field of cotton and silk, metal and 
+		precious stone.
 	
-# Lack of adequate public health facilities, occurrence of frequent natural calamities and famines pauperised the hapless Indian 
-	people and resulted in engendering high mortality rates
-
-# The primary motive of the colonial government behind this policy of systematically deindustrialising India was two-fold.
-	First, to reduce India to the status of a mere exporter of important raw materials for the upcoming modern industries in
-	Britain and, second, to turn India into a sprawling market for the finished products of those industries so that
-	their continued expansion could be ensured to the maximum advantage of their home country — Britain
-
-# There was no Capital goods industry to help promote the industrialisation, there was few establishment of traditional handicraft
-	industries. Still contribution to GDP growth remained small
+# AGRICULTURAL SECTOR
+	- Stagnation in agriculture was caused mainly because of various system of land settlement introduced by colonial government.
+		Zamindari system where the zamindars where interested only collecting the rent, no interest in the improvement of agricultural conditions.
+	- Low levels of technology, lack of lack of irrigation facilities and negligible use of fertilisers, all added up to aggravate
+		the plight of the farmers and contributed to the dismal level of agricultural productivity. Commercialization of agriculture 
+		producing the cash crops which were to be ultimately used by Britisher back home.
 	
-# Britain maintained a monopoly control over India’s exports and imports. As a result, more than half of India’s foreign trade was
-	restricted to Britain while the rest was allowed with a few other countries like China, Ceylon (Sri Lanka) and Persia (Iran)
+# INDUSTRIAL SECTOR
+	- The Britisher's intention was, first, to reduce India to the status of a mere exporter of important raw materials for the upcoming modern industries 
+		in Britain and, second, to turn India into a sprawling market for the finished products of those industries.
+	- Furthermore, the growth rate of the new industrial sector and its contribution to the Gross Domestic Product (GDP) remained very small.
 
-# The real motive behind Infrastructure development was not to provide basic amenities to the people but to sub-serve various 
-	colonial interests. Infrastructure like Roads, railways, etc.
-	
-# The agricultural sector was already saddled with surplus labour and extremely low productivity. The industrial sector was crying for
-	modernisation, diversification, capacity building and increased public investment economic policy. In a nutshell, the social and 
-	economic challenges before the country were enormous.
-	
+# FOREIGN TRADE
+	- Britain maintained a monopoly control over India’s exports and imports. As a result, more than half of India’s foreign trade was restricted to 
+		Britain while the rest was allowed with a few other countries like China, Ceylon (Sri Lanka) and Persia (Iran).
+	- The most important characteristic of India’s foreign trade throughout the colonial period was the generation of a large export surplus. But this
+		surplus came at a huge cost to the country’s economy. Several essential commodities—food grains, clothes, kerosene etc. — became conspicuous
+		by their acute scarcity in the domestic market.
+	- This export surplus did not result in any flow of gold or silver into India. Rather, this was used to make payments for the expenses incurred by an
+		office set up by the colonial government in Britain, expenses on war, again fought by the British government, and the import of invisible items, 
+		all of which led to the drain of Indian wealth.
 
+# DEMOGRAPHIC CONDITION
+	- Public health facilities were either unavailable to large chunks of population or, when available, were highly inadequate. water and air-borne 
+		diseases were rampant and took a huge toll on life. 
+	- No wonder, the overall mortality rate was very high and in that particularly, the infant mortality rate was quite alarming. Life expectancy was 
+		also very low—32 years in contrast to the present 63 years.
+	- In the absence of reliable data, it is difficult to specify the extent of poverty at that time but there is no doubt that extensive poverty
+		prevailed in India during the colonial period which contributed to the worsening profile of India’s population of the time.
+	
+# OCCUPATIONAL STRUCTURE
+	- Parts of the then Madras Presidency Maharashtra and West Bengal witnessed a decline in the dependence of the workforce on the agricultural sector 
+		with a commensurate increase in the manufacturing and the services sectors. 
+	- However, there had been an increase in the share of workforce in agriculture during the same time in states such as Orissa, Rajasthan and Punjab.
+
+# INFRASTRUCTURE
+	- The real motive behind this development was not to provide basic amenities to the people but to sub-serve various colonial interests.
+	- The roads that were built primarily served the purposes of  mobilising the army within India and drawing out raw materials from the countryside to
+		the nearest railway station or the port to send these to far away England or other lucrative foreign destinations.
+	- the colonial dispensation also took measures for developing the inland trade and sea lanes.
+	
+# CONCLUSION
+	- The agricultural sector was already saddled with surplus labour and extremely low productivity. The industrial sector was crying for modernisation,
+		diversification, capacity building and increased public investment.
+	- In a nutshell, the social and economic challenges before the country were enormous.
+	
+# RECAP
+	- An understanding of the economy before independence is necessary to know and appreciate the level of development achieved during the 
+		post-independence period.
+	- Under the colonial dispensation, the economic policies of the government were concerned more with the protection and promotion of British
+		economic interests than with the need to develop the economic condition of the colonised country and its people.
+	- The agricultural sector continued to experience stagnation and incremental deterioration despite the fact that the largest section of Indian
+		population depended on it for sustenance.
+	- Systematic policies pursued by the British-India government led to the collapse of India’s world famous handicraft industries without
+		contributing, in any significant manner, to its replacement by a modern industrial base.
+	- Lack of adequate public health facilities, occurrence of frequent natural calamities and famines pauperised the hapless Indian people and 
+		resulted in engendering high mortality rates.
+	- Some efforts were made by the colonial regime to improve infrastructure facilities but these efforts were spiced with selfish motives though, in 
+		the long run, the independent Indian government built on this base the country’s future economic and social development plan.
+	
+	
 
 -----------------------------	NCERT ECONOMY :: 11-2 INDIAN ECONOMY 1950-1990		-----------------------------
-# Among the thinkers contribution to the five-year plans, the statistician Prasanta Chandra Mahalanobis was the architect 
-	of Indian Planning
-
-# Goals of five year plans are Growth, Modernisation, self-reliance, Equity. It is not that all the plans have given importance 
-	to all these goals. Due to limitation of resources choice were made in each plan to which of the goal be given primary importance.
 	
-# Growth: 
+		"The central objective of Planning in India... is to initiate a process of
+		development which will raise the living standards and open out to the people
+		new opportunities for a richer and more varied life."
+					- First Five Year Plan
+					
+# INTRODUCTION
+	- Among the thinkers contribution to the five-year plans, the statistician Prasanta Chandra Mahalanobis was the architect 
+		of Indian Planning.	
+	- The leaders of independent India had to decide, among other things, the type of economic system most suitable for our nation, a system which would
+		promote the welfare of all rather than a few.
+	- It is not possible in a democracy like India for the government to change the ownership pattern of land and other properties of its citizens in the 
+		way that it was done in the former Soviet Union.	
+					
+
+# THE GOALS OF FIVE YEAR PLANS
+	- Goals of five year plans are Growth, Modernisation, self-reliance, Equity. It is not that all the plans have given importance 
+		to all these goals. Due to limitation of resources choice were made in each plan to which of the goal be given primary importance.
+	- Growth: 
 	- to increase in the country’s capacity to produce the output of goods and services within the country
 	- steady increase in GDP is the good indicator of economic growth
 	- GDP is the market value of all the goods and services produced in the country during a year
 	- The GDP of a country is derived from the different sector’s of the economy, namely the agricultural sector, the
 		industrial sector and the service sector
-
-# Modernisation: 
+	- Modernisation: 
 	- To increase the production of goods and services the producers have to adopt new technology
 	- modernisation does not refer only to the use of new technology but also to changes in social outlook such as the recognition
 		that women should have the same rights as men
-	
-# Self-reliance: 
+	- Self-reliance: 
 	- A nation can promote economic growth and modernisation by using its own resources or by using resources imported from other 
 		nations
-	- first seven fiver-year plans used self-reliance by avoiding imports of those goods and services which could be produced in
+	- first seven five-year plans used self-reliance by avoiding imports of those goods and services which could be produced in
 		India
 	- it was necessary to reduce our dependence on foreign countries, especially for food. This steps were taken out of fear that 
 		dependence on imported food supplies, foreign technology and foreign capital may make India's sovereignty vulnerable to 
 		foreign interference in our policies
-		
-# Equity:
+	- Equity:
 	- It is important to ensure that the benefits of economic prosperity reach the poor sections as well instead of being enjoyed 
 		only by the rich
 	- So, in addition to growth, modernisation and self-reliance, equity is also important: every Indian should be able to meet his 
 		or her basic needs such as food, a decent house, education and health care and inequality in the distribution of wealth
 		should be reduced
 	
-# Land Reforms:
+# AGRICULTURE
+	- Land Reforms:
 	- to reduce the Zamindari and improve the agriculture productivity
 	- ownership of land would give incentives to the tillers to invest in making improvements provided sufficient capital was made
 		available to them
 	- Land reforms were successful in Kerala and West Bengal because these states had governments committed to the policy of land to 
 		the tiller. Unfortunately other states did not have the same level of commitment and vast inequality in landholding
-	
-# Land Ceiling: 
+	- Land Ceiling: 
 	- fixing the maximum size of land which could be owned by an individual. The purpose of land ceiling was to reduce the 
 		concentration of land ownership in a few hands.
 	- the goal of equity was not fully served by abolition of intermediaries
 	- The land ceiling legislation also faced hurdles due lots of loop holes which exploited by the big landholders to retain
 		their land.
-		
-# The Green Revolution: 
+	- The Green Revolution: 
 	- Productivity in the agricultural sector was very low because of the use of old technology and the absence of required infrastructure
 		for the vast majority of farmers
 	- India’s agriculture vitally depends on the monsoon and shortfall of monsoon leads to access the irrigation facilities which very
@@ -229,8 +275,7 @@ This file contains the "Business Standard" article on Financial Market as well a
 		access to the needed inputs
 	- The risk of the small farmers being ruined when pests attack their crops was considerably reduced by the services rendered by research 
 		institutes established by the government
-		
-# Debate our Subsidies:
+	- Debate our Subsidies:
 	- It was decided that subsidies should be given to the farmers to test and implement new technology for farming like HYV (High yielding 
 		variety), as new technology is risky
 	- to encourage farmers subsidies to be given and once the technology is found profitably and widely adopted the subsidies to be phased out
@@ -241,7 +286,7 @@ This file contains the "Business Standard" article on Financial Market as well a
 	- the industrial sector and the service sector did not absorb the people working in the agricultural sector, this an important failure of 
 		our policies followed during 1950-1990.
 		
-# Industry and Trade
+# INDUSTRY AND TRADE
 	- Economists have found that poor nation can progress only if they have good industrial sector, as it provides stable employment than
 		agriculture.
 	- Industrial sector promote modernisation and overall prosperity. Thus, five-year plans place more emphasis on the industrial development.
@@ -251,7 +296,7 @@ This file contains the "Business Standard" article on Financial Market as well a
 		backward regions and gives easier way for licensing, giving certain concessions like tax benefits and electricity at lower tariff.
 	- Small scale Industry: for promoting rural development, also given concessions such as lower excise duty and bank loans at lower
 		interest rates.
-# Trade Policy: Import Substitution
+# TRADE POLICY: IMPORT SUBSTITUTION
 	- Instead of importing the vehicles from foreign countries, it was encourage to produce them in India itself and protect the domestic firm 
 		from competing the foreign firms.
 	- Tariffs are a tax on imported goods; they make imported goods more expensive and discourage their use. Quotas specify the quantity of goods
@@ -260,13 +305,40 @@ This file contains the "Business Standard" article on Financial Market as well a
 		and jute. It was well diversified, largely due to public sector.
 	- scholars point out that the public sector is not meant for earning profits but to promote the welfare of the nation
 	- One of the major drawbacks in the industrial sector was the inefficient functioning of the public sector as it started incurring losses leading
-		to drain on the nation’s limited resources
+		to drain on the nation’s limited resources.
+		
+# CONCLUSION
+	- India became self- sufficient in food production thanks to the green revolution. Land reforms resulted in abolition of the hated zamindari
+		system. 
+	- many economists became dissatisfied with the performance of many public sector enterprises.
+	- Excessive government regulation prevented growth of entrepreneurship.
+	
+# RECAP
+	- After independence, India envisaged an economic system which combines the best features of socialism and capitalism—this culminated in the mixed
+		economy model.
+	- All the economic planning has been formulated through five year plans.
+	- Common goals of five year plans are growth, modernisation, self-sufficiency and equity.
+	- The major policy initiatives in agriculture sector were land reforms and green revolution. These initiatives helped India to become self-sufficient
+		in food grains production.
+	- The proportion of people depending on agriculture did not decline as expected.
+	- Policy initiatives in the industrial sector raised its contribution to GDP.
+	- One of the major drawbacks in the industrial sector was the inefficient functioning of the public sector as it started incurring losses leading to
+		drain on the nation’s limited resources.
 
 	
 -----------------------------	NCERT ECONOMY :: 11-3 LIBERALISATION PRIVATISATION AND GLOBALISATION		-----------------------------
+
+		"There is a consensus in the world today that economic development is not all
+		and the GDP is not necessarily a measure of progress of a society."
+			- K.R. Narayanan
+			
 # This chapter talks about the financial crisis that occurred in 1991.
 
-# Background
+# INTRODUCTION
+	- since independence, India followed the mixed economy framework by combining the advantages of the market economic system with those of the planned
+		economic system.
+
+# BACKGROUND
 	- The bad economic management leads to crisis, even the foreign reserves were consumed.
 	- imports were increased and more than the export, so India recieved loan from World Bank and IMF.
 	- In return the foreign investors asked to remove the restriction on trade and private sector to reduce less involvement of Government
@@ -322,14 +394,45 @@ This file contains the "Business Standard" article on Financial Market as well a
 	- Reforms and Fiscal Policies: The tax reductions aimed at yielding larger revenue which didn't succeed. Also the tax incentives were provided
 		foreign investors which further reduced the scope for raising tax revenues.
 		
-# Have a glance at "Recap" from PDF.
+# CONCLUSION
+	- the critics argue that globalisation is a strategy of the developed countries to expand their markets in other countries.
+	- the crisis that erupted in the early 1990s was basically an outcome of the deep-rooted inequalities in Indian society and the economic 
+		reform policies initiated as a response to the crisis by the government.
+	- it has increased the income and quality of consumption of only high-income groups and the growth has been concentrated only in some select areas
+		in the services sector rather than vital sectors such as agriculture and industry which provide livelihoods to millions of people in the country.
+		
+# RECAP 
+	- The economy was facing problems of declining foreign exchange, growing imports without matching rise in exports and high inflation. India changed
+		its economic policies in 1991 due to a financial crisis and pressure from international organisations like the World Bank and IMF.
+	- In the domestic economy, major reforms were undertaken in the industrial and financial sectors. Major external sector reforms included foreign
+		exchange deregulations and import liberalisation.
+	- With a view to improving the performance of the public sector, there was a consensus on reducing its role and opening it up to the private sector. 
+		This was done through disinvestment and liberalisation measures.
+	- Globalisation is the outcome of the policies of liberalisation and privatisation. It means an integration of the economy of the country with the 
+		world economy.
+	- Outsourcing is an emerging business activity.
+	- The objective of the WTO is to establish a rule based trade regime to ensure optimum utilisation of world resources.
+	- During the reforms, growth of agriculture and industry has gone down but the service sector has registered growth.
+	- Reforms have not benefited the agriculture sector. There has also been a decline in public investment in this sector.
+	- Industrial sector growth has slowed down due to availability of cheaper imports and lower investment.
 
 
 -----------------------------	NCERT ECONOMY :: 11-4 POVERTY		-----------------------------
 
+		"No society can surely be flourishing and happy, of which the far greater
+		part of the members are poor and miserable."
+				- Adam Smith
+
 # This chapter talks about some of the most challenging issues facing India today are poverty, development of rural India and building 
 	infrastructure.
 	
+# INTRODUCTION
+	- Providing minimum basic needs to the people and reduction of poverty have been the major aims of independent India.
+	- the successive five year plans envisaged laid emphasis on the upliftment of the poorest of the poor (Antyodaya), integrating the
+		poor into the mainstream and achieving a minimum standard of living for all.
+	- So poverty is a call to action — for the poor and the wealthy alike — a call to change the world so that many more may have enough to
+		eat, adequate shelter, access to education and health, protection from violence, and a voice in what happens in their communities.
+		
 # WHO ARE THE POOR?
 	- Starvation and hunger are the key features of the poorest households. The poor lack basic literacy and skills and hence have very limited 
 		economic opportunities. 
@@ -399,10 +502,32 @@ This file contains the "Business Standard" article on Financial Market as well a
 	- Over the years, the government has been following three approaches to reduce poverty in India: growth oriented development, specific poverty
 		alleviation programmes and meeting the minimum needs of the poor.
 	- Government initiatives are yet to transform the ownership of assets, processes of production and meet the basic amenities of the poor.
+	
+# RECAP
+	- Reducing poverty has been one of the major objectives of India’s developmental strategies.
+	- The per capita consumption expenditure level which meets the average per capita daily requirement of 2,400 calories in rural areas and 2,100
+		calories in urban areas, along with a minimum of non-food expenditure, is called poverty line or absolute poverty.
+	- When the number of poor and their proportion is compared, we will have an idea of different levels of poverty of people and their distribution 
+		between states and over time.
+	- The number of poor in India and their proportion to total population has declined substantially. For the first time in the 1990s, the absolute
+		number of poor has declined.
+	- Majority of poor are residing in rural areas and engage themselves in casual and unskilled jobs.
+	- Income and expenditure oriented approaches do not take into account many other attributes of the poor people.
+	- Over the years, the government has been following three approaches to reduce poverty in India: growth oriented development, specific poverty
+		alleviation programmes and meeting the minimum needs of the poor.
+	- Government initiatives are yet to transform the ownership of assets, processes of production and meet the basic amenities of the poor.
 
 
 
------------------------------	NCERT ECONOMY :: 11-5 HUMAN CAPITAL FORMATION ININDIA		-----------------------------
+-----------------------------	NCERT ECONOMY :: 11-5 HUMAN CAPITAL FORMATION IN INDIA		-----------------------------
+	
+	"... the wisdom of expending public and private funds on education is not to be
+		measured by its direct fruits alone. It will be profitable as a mere investment,
+		to give the masses of people much greater opportunities than they can generally
+		avail themselves of. For by this means many, who would have died unknown,
+		are enabled to get the start needed for bringing out their latent abilities".
+				- Alfred Marshall
+	
 # INTRODUCTION
 	- the labour skill of an educated person is more than that of an uneducated person and hence the former is able to generate more income than 
 		the latter and his contribution to economic growth is, consequently, more.
@@ -466,8 +591,26 @@ This file contains the "Business Standard" article on Financial Market as well a
 	- Human development is based on the idea that education and health are integral to human well-being because only when people have the ability to
 		read and write and the ability to lead a long and healthy life, will they be able to make other choices which they value.		
 		
+# RECAP
+	- Investments in education convert human beings into human capital; human capital represents enhanced labour productivity, which is an acquired ability
+		and an outcome of deliberate investment decisions with an expectation that it will increase future income sources.
+	- Investments in education, on-the-job training, health, migration and information are the sources of human capital formation.
+	- The concept of physical capital is the base for conceptualising human capital. There are some similarities as well as dissimilarities between the two 
+		forms of capital formation.
+	- Investment in human capital formation is considered as efficient and growth enhancing.
+	- Human development is based on the idea that education and health are integral to human well-being because only when people have the ability to
+		read and write and the ability to lead a long and healthy life, will they be able to make other choices which they value.
+	- The percentage of 'education expenditure of total government expenditure' indicates the importance of education in the scheme of things before 
+		the government.
+		
+		
 
 -----------------------------	NCERT ECONOMY :: 11-6 RURAL DEVELOPMENT		-----------------------------
+
+		"Only the tillers of the soil live by the right. The rest form their train and eat
+		only the bread of dependence".
+			- Thiruvalluvar
+		
 # INTRODUCTION
 	- Mahatma Gandhi once said that the real progress of India did not mean simply the growth and expansion of industrial urban centres but mainly the
 		development of the villages.
@@ -536,14 +679,203 @@ This file contains the "Business Standard" article on Financial Market as well a
 		dissemination.
 
 # SUSTAINABLE DEVELOPMENT AND ORGANIC FARMING
+	- Conventional agriculture relies heavily on chemical fertilisers and toxic pesticides etc., which enter the food supply, penetrate the water sources,
+		harm the livestock, deplete the soil and devastate natural eco-systems.
+	- organic agriculture is a whole system of farming that restores, maintains and enhances the ecological balance.
+	- Benefits of Organic Farming: Organic agriculture offers a means to substitute costlier agricultural inputs with locally produced organic inputs that
+		are cheaper and thereby generate good returns on investment.
+	- Inadequate infrastructure and the problem of marketing the products are major concerns which need to be addressed apart from an appropriate 
+		agriculture policy to promote organic farming.
+	- Organic produce may also have more blemishes and a shorter shelf life than sprayed produce. Moreover choice in production of off-season crops is 
+		quite limited in organic farming.
 
-
-
+# CONCLUSION
+	- There is a greater need today to make rural areas more vibrant through diversification into dairying, poultry, fisheries, vegetables and fruits
+		and linking up the rural production centres with the urban and foreign (export) markets to realise higher returns on the investments for the
+		products.
+	- infrastructure elements like credit and marketing, farmer-friendly agricultural policies and a constant appraisal and dialogue between farmers’ groups
+		and state agricultural departments are essential to realise the full potential of the sector.
+	- we need to learn from, and also try out when found relevant, practices from the available set of 'best practice' illustrations, to speed up
+		this process of 'learning by doing'.
+		
+# RECAP
+	- Rural Development is quite a comprehensive term but it essentially means a plan of action for the development of areas which
+		are lagging behind in socio-economic development.
+	- There is a need for improving the quantity and quality of infrastructure in rural areas such as banking, marketing, storage,
+		transport and communications etc. to realise its true potential.
+	- Diversification towards new areas such as livestock, fisheries and other non-agricultural activities is necessary not only to
+		reduce the risk from agriculture sector but also to provide productive sustainable livelihood options to our rural people.
+	- The importance of organic farming as an environmentally sustainable production process is on a rise an needs to be promoted.		
+		
 
 
 -----------------------------	NCERT ECONOMY :: 11-7 EMPLOYMENT GROWTH, INFORMALISATION AND OTHER ISSUES		-----------------------------
 
 
+		"What I object to, is the 'craze' for machinery, not machinery as such. The
+	craze is for what they call labour-saving machinery. Men go on 'saving labour'
+	till thousands are without work and thrown on the open streets to die of
+	starvation... "
+		- Mahatma Gandhi
+
+# INTRODUCTION
+	- Every working person is actively contributing to national income the development of the country by engaging in various economic activities — that
+		is the real meaning of 'earning' a living.
+	- Studying about working people gives us insights into the quality and nature of employment in our country and helps to analyse the contribution made
+		by different industries and sectors towards national income.
+		
+# WORKERS AND EMPLOYMENT
+	- Farmers working on fields, produce food grains and raw materials for industries, like cotton becomes cloth in mills. The total money value of all 
+		such good and services produced in a country in a year is called its gross domestic product for that year.
+	- Also consider paying for imports & received for exports there is a net earning for the country which may be positive (export > import), or
+		negative (if export < import), or zero (if export = import).
+	- When we add this earning (plus or minus) from foreign transactions, what we get is called the country’s gross national product for that year.
+	- Those activities contribute to the Gross National Product are called economic activity.
+	- India has multi-faceted employment, so are employed for few months in a year and some are employed throughout a year.
+	- Men has major contribution to work-force, Women do contribute to work force but are not paid many a times.
+
+# PARTICIPATION OF PEOPLE IN EMPLOYMENT
+	- Worker-population ratio is useful in knowing the proportion of population that is actively contributing to the production of goods and services of 
+		a country.
+	- People in rural areas have limited resources to earn a higher income and participate more in the employment market. Many don't go to schools or school
+		drop-outs. These people cannot stay at home as their economic condition may not allow them to do so.
+	- In urban areas, a considerable section is able to study in various educational institutions, having a variety of employment opportunities. They look
+		for the appropriate job to suit their qualifications and skills.
+	- Many activities for the household engaged in by women are not recognised as productive work.
+	
+# SELF-EMPLOYED AND HIRED WORKERS
+	- Workers who own and operate an enterprise to earn their livelihood are known as self-employed. More than half the workforce in India belongs to this
+		category.
+	- The construction workers are known as casual wage labourers; they account for 33 per cent of India’s workforce.
+	- When a worker is engaged by someone or an enterprise and paid his or her wages on a regular basis, they are known as regular salaried employees and 
+		it accounts for 15 per cent of India's work-force.
+	- regular salaried jobs require skills and a higher level of literacy, women might not have been engaged to a great extent.
+	- the self-employed and casual wage labourers are found more in rural areas than in urban areas.
+	- In Urban areas the self-employed and regular wage salaried are more and in rural areas self-employed are more as they're mostly dependent on
+		agriculture.
+		
+# EMPLOYMENT IN FIRMS, FACTORIES AND OFFICES
+	- the industrial sector begins to lose its share of total employment as the service sector enters a period of rapid expansion.
+	- we divide all economic activities into eight different industrial divisions. They are
+		(i) Agriculture
+		(ii) Mining and Quarrying
+		(iii) Manufacturing
+ 		(iv) Electricity, Gas and Water Supply
+		(v) Construction
+		(vi) Trade
+ 		(vii) Transport and Storage and	
+		(viii) Services.
+	- working persons engaged in these divisions can be clubbed into three major sectors
+		(a) primary sector which includes (i) and (ii) 
+		(b) secondary sector which includes (iii), (iv) and (v)
+		(c) service sector which includes divisions (vi), (vii) and (viii).
+	
+# GROWTH AND CHANGING STRUCTURE OF EMPLOYMENT
+	- Developmental strategies in many countries, including India, have aimed at reducing the proportion of people depending on agriculture.
+	- Distribution of workforce by industrial sectors shows substantial shift from farm work to non-farm work.
+	- The distribution of workforce in different status indicates that over the last three decades (1972-2000), people have moved from self-employment
+		and regular salaried employment to casual wage work.
+	- Scholars call this process of moving from self-employment and regular salaried employment to casual wage work as "casualisation of workforce".
+
+# INFORMALISATION OF INDIAN WORKFORCE
+	- a small section of Indian workforce is getting regular income. The government, through its labour laws, protects them in various ways. This section
+		of the workforce forms trade unions, bargains with employers for better wages and other social security measures.
+	- All the public sector establishments and those private sector establishments which employ 10 hired workers or more are called formal sector 
+		establishments and those who work in such establishments are formal sector workers.
+	- All other enterprises and workers working in those enterprises form the informal sector. Thus, informal sector includes millions of farmers, 
+		agricultural labourers, owners of small enterprises and people working in those enterprises as also the self-employed who do not have any 
+		hired workers.
+	- Workers and enterprises in the informal sector do not get regular income; they do not have any protection or regulation from the government
+		and are dismissed without any compensation.
+	- Owing to the efforts of the International Labour Organisation (ILO), the Indian government has initiated the modernisation of informal sector
+		enterprises and provision of social security measures to informal sector workers.
+	
+# UNEMPLOYMENT
+	- Economists define unemployed person as one who is not able to get employment of even one hour in half a day.
+	- There are three sources of data on unemployment : Reports of Census of India, National Sample Survey Organisation’s Reports of Employment
+		and Unemployment Situation and Directorate General of Employment and Training Data of Registration with Employment Exchanges.
+	- they provide different estimates of unemployment, they do provide us with the attributes of the unemployed and the variety of unemployment
+		prevailing in our country.
+	- "Open unemployment" is the person looking for jobs vacancy in newspapers, companies, etc.
+	- unemployment prevailing in Indian farms as "disguised unemployment". Like 5 workers are doing the 2 workers job.
+	- "Seasonal unemployment" is like when farmer looks for jobs in urban areas after rainy season.
+	- The government has taken many initiatives to generate acceptable employment, ensuring at least minimal safety and job satisfaction, through
+		various measures.
+		
+# GOVERNMENT AND EMPLOYMENT GENERATION
+	- The National Rural Employment Guarantee Act, 2005 which promises 100 days of guaranteed wage employment to all adult members of rural households 
+		who volunteer to do unskilled manual work.
+	- This scheme is one of the many measures that the government implements to generate employment for those who are in need of jobs in rural areas.
+	- All these as employment generation programmes aim at providing not only employment but also services in areas such as primary health, primary 
+		education, rural shelter, rural drinking water, nutrition, assistance for people to buy income and employment generating assets, development of 
+		community assets by generating wage employment, construction of houses and sanitation, assistance for constructing houses, laying of rural roads,
+		development of wastelands/degraded lands.
+	- Newly emerging jobs are found mostly in the service sector, Outsourcing of work is becoming a common practice. A big firm finds it
+		profitable to close down some of its specialist departments and hand over a large number of small piecemeal jobs to very small enterprises or
+		specialist individuals sometimes situated even in other countries.
+	- there has been rapid growth in the gross domestic product, but without simultaneous increase in employment opportunities. This has forced the
+		government to take up initiatives in generating employment opportunities particularly in the rural areas.
+		
+# RECAP
+	- All those persons who are engaged in various economic activities and hence contribute to national product are workers.
+	- About two-fifth of the total population in the country is engaged in various economic activities.
+	- Men particularly rural men, form the major section of workforce in India.
+	- Majority of workers in India are self-employed. Casual wage labourers and regular salaried employees together account for less than half the
+		proportion of India’s workforce.
+	- About three-fifth of India’s workforce depends on agriculture and other allied activities as the major source of livelihood.
+	- In recent years, the growth of employment has decelerated.
+	- Post reforms, India has been witness to employment opportunities in the service sector. These new jobs are found mostly in the informal sector
+		and the nature of jobs is also mostly casual.
+	- Government is the major formal sector employer in the country.
+	- Acquiring skills and undergoing training are important for getting employment.
+	- Disguised unemployment is a common form of unemployment in rural India.
+	- There has been a change in the structure of the workforce in India.
+	- Through various schemes and policies, the government takes initiatives to generate employment directly and indirectly.
+
+		
+-----------------------------		NCERT ECONOMY :: 11-8 INFRASTRUCTURE			-----------------------------
 
 
------------------------------	NCERT ECONOMY :: 		-----------------------------
+
+
+
+
+-----------------------------		NCERT ECONOMY :: 11-10 COMPARATIVE DEVELOPMENT EXPERIENCES OF INDIA AND ITS NEIGHBOURS	-----------------------------
+
+
+
+
+
+
+-----------------------------		NCERT ECONOMY :: 12-1 Introduction			-----------------------------
+
+
+
+
+-----------------------------		NCERT ECONOMY :: 12-2 National income			-----------------------------
+
+
+
+
+-----------------------------		NCERT ECONOMY :: 12-3 Money and Banking			-----------------------------
+
+
+
+
+-----------------------------		NCERT ECONOMY :: 12-4 Income determination			-----------------------------
+
+
+
+
+-----------------------------		NCERT ECONOMY :: 12-5 Government - function and scope			-----------------------------
+
+
+
+-----------------------------		NCERT ECONOMY :: 12-6 Open economy			-----------------------------
+
+
+
+-----------------------------		NCERT ECONOMY :: 12-Glossary			-----------------------------
+
+
+
