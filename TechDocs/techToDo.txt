@@ -1,0 +1,164 @@
+____________________________________________________________________________________________________________________________________________
+
+# Technical Topics:
+
+1. GANG OF FOUR DESIGN PATTERNS
+	Creational ::
+		- Abstract Factory
+		- Builder		(..DONE..)
+		- Factory Method
+		- Prototype
+		- Singleton
+		
+	Structural ::
+		- Flyweight		(..DONE..)
+		- Adapter
+		- Bridge
+		- Composite		
+		- Decorator
+		- Facade
+		- Proxy
+		
+	Behavioural ::
+		- Observer		(..DONE..)
+		- Chain of responsibilty
+		- Command
+		- Interpreter
+		- Iterator
+		- Mediator
+		- Memento
+		- State
+		- Strategy
+		- Template Method
+		- Visitor
+		
+____________________________________________________________________________________________________________________________________________
+Steps suggested by Dharmendra
+
+# Step - 1
+	JAVA
+	- Core Java Collection Framework
+	- Concurrency Packages
+	- ConcurrentHashMap
+	- Generics implementation other than in Collection
+	- Serialization
+	- File IO (NIO Packages)
+	- Exception Handling (Do it from "Effective Java")
+	- Transformation of XML like JAXB
+	- Read/Write of XML and parse
+	- WebServices using XML
+	- JMS
+		
+	SPRING
+	- Basics with IoC
+	- AOP
+	- Transaction Management
+	- RESTful WebServices
+	
+	HIBERNATE
+	- Basic Configuration
+	- Caching Concept
+	- One to many relations
+	
+	ORACLE
+	- Basic Queries
+	- Indexing
+	- Cursors
+	
+	ExtJS
+	- Explain your experience in this framework
+	
+	EJB
+	- Learn basics of EJB 3.0
+	
+	DESIGN PATTERNS
+	- Any D.P. except Singleton/Factory :)
+	
+	
+
+# Step - 2
+	- Scenario based-questions
+	- For certain requirement what technologies you'll use
+	
+
+# Self Learning
+	- Enums
+	- Interface Creations
+____________________________________________________________________________________________________________________________________________
+
+:::  Java Revisited Topics :::
+
+# Multi-Threading
+	- Common Multi-threading Mistakes in Java - Calling run() instead of start()	
+	- How to Use Locks in Multi-threaded Java Program
+
+____________________________________________________________________________________________________________________________________________
+
+::: Java Concurrency in Practice :::
+
+	- Java Concurrency in Practice Notes.txt
+	
+____________________________________________________________________________________________________________________________________________
+
+		:::		Questions	:::
+	
+1. Java why ConcurrentHashMap doesn't throw concurrentmodificationexception?
+
+2. Implement a thread safe queue con-formant to POSIX APIs and specification. There are multiple readers and writers indefinitely
+	reading/writing from/into the queue. 
+	
+3. We have a variable that needs to be accessed inside an anonymous method by passing it as an argument. How do we do this?
+
+What is the difference between Map and Set. What is the key used for storing an object in the set if the set uses a map for storing its data?
+
+What is the lifecycle of a Thread?
+
+What is a repository and how can you access it in Java code? 
+
+You are given a file that has sentences (one line per sentence). You are required to find all the longest sentence (one or more sentence can have same length). Explain the logic or write the code to do this.
+
+write a program to implement caching in java 
+
+Generic interview questions about the technlogies
+
+How the locking will happen if method is declared as static and synchronized?
+
+
+____________________________________________________________________________________________________________________________________________
+
+		::: Java Cached Program :::
+		
+Resource:
+http://www.javaworld.com/article/2075440/core-java/develop-a-generic-caching-service-to-improve-performance.html
+		
+The filing cabinet operates as a cache: a high-speed memory that occasionally needs maintenance. The documents in the cache are cached objects, all of which conform to the standards set by you, the cache manager. The process of cleaning out the cache is termed purging. Because cached items are purged after a certain amount of time has elapsed, the cache is called a timed cache
+
+# Number of questions arise, which include such complexities as:
+	Q. What if the product list changes? How can the cache expire the lists? How will I know how long the product list should remain in the cache before it expires?
+	Q. What if two distinct product lists exist, and the two lists change at different intervals? Can I expire each list individually, or must they all have the same shelf life?
+	Q. What if the cache is empty and two requesters try the cache at exactly the same time? When they both find it empty, will they create their own lists, and then both try to put their copies into the cache?
+	Q. What if items sit in the cache for months without being accessed? Won't they eat up memory?
+	
+# A request must check the caching service before loading a fresh list from the database. 
+	If the product list has already loaded into the cache, then you use the cached list, provided it is not expired. If the product list is not in the cache, then you load it from the database and cache it immediately.
+
+# Requirements list for the caching service that we will develop:
+	- Any Java application can access the caching service.
+	- Objects can be placed in the cache.
+	- Objects can be extracted from the cache.
+	- Cached objects can determine for themselves when they expire, thereby allowing maximum flexibility. 
+			Caching services that expire all objects using the same expiration formula fail to provide optimal use of cached objects.
+			This approach is inadequate in large-scale systems since, for example, a product list may change daily, whereas a list of store locations might change only once a month.
+	- A background thread that runs under low priority removes expired cached objects.
+	- The caching service can be enhanced later through the use of a least-recently used (LRU) or least-frequently used (LFU) purging mechanism.
+	
+# Rules that govern the objects placed in the cache.
+	- All objects must have a public method called isExpired(), which returns a Boolean value.
+	- All objects must have a public method called getIdentifier(), which returns an object that distinguishes the object from all others in the cache.
+
+	
+____________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
