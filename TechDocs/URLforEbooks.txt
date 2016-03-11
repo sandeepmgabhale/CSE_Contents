@@ -1,0 +1,3 @@
+Java Puzzlers by Joshua Bloch:
+http://read.pudn.com/downloads157/ebook/697987/java%20puzzlers.pdf
+
